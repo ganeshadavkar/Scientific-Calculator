@@ -1,0 +1,4 @@
+com/example/mad/BuildConfig.java
+ com.example.mad.BuildConfig
+com/example/mad/MainActivity.java
+ com.example.mad.MainActivity
